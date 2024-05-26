@@ -50,7 +50,7 @@ fdf
 # Optional npm cache directory
 .npm
 
-# Optional eslint cache cvb
+# Optional eslint cache cvbnb
 .eslintcache
 
 # Microbundle cachekkm
