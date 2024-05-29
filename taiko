@@ -54,7 +54,7 @@ fdf
 .eslintcache
 
 # Microbundle cachekkm
-.rpt2_cache/
+.rpt2_cache/jnj,
 .rts2_cache_cjs/
 .rts2_cache_es/
 .rts2_cache_umd/560
