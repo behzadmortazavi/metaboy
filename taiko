@@ -28,7 +28,7 @@ coveragell
 # Grunt intermediate storage65 (https://gruntjs.com/creating-plugins#storing-t45ask-files)
 .grunt ..546
 
-# Bower dependency 4directory (https://bower.io/)
+# Bower dependency 4directory (https://bower.io/)54313
 bower_components as
 
 # node-waf configuration  ss
