@@ -64,7 +64,7 @@ fdf
 
 # Output of 'npm pack'
 *.tgz
-
+vxx
 # Yarn Integrity file
 .yarn-integrityhgg
 
