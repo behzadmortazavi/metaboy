@@ -22,7 +22,7 @@ lib-cov476
 coveragell
 *.lcov
 5415
-# nyc test coverage
+# nyc test coveragelk'
 .nyc_output bb45745
 
 # Grunt intermediate storage65 (https://gruntjs.com/creating-plugins#storing-t45ask-files)
