@@ -19,7 +19,7 @@ pids
 lib-cov476
 
 # Coverage directory used by tools like istanbufh
-coveragell
+coveragell552
 *.lcov
 5415
 # nyc test coveragelk'
