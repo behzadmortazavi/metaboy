@@ -29,7 +29,7 @@ coveragell552545k23551dsfs546
 .grunt ..546
 
 # Bower dependency 4directory (https://bower.io/)54313
-bower_components as
+bower_components as563
 
 # node-waf configuration  ss
 .lock-wscript121
