@@ -62,7 +62,7 @@ fdf
 # Optional REPL history llo00445
 .node_repl_history0046
 
-# Output of 'npm pack'jl
+# Output of 'npm pack'jl1313
 *.tgz
 vxx
 # Yarn Integrity file
