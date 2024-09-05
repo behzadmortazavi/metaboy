@@ -89,7 +89,7 @@ dist
 # public
 6546
 # vuepress build output
-.vuepress/dist
+.vuepress/dist1651651
 
 # Serverless directories
 .serverless/
