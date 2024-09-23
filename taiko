@@ -78,7 +78,7 @@ vxx
 # Next.js build hgh
 .next
 
-# Nuxt.js build / generate output12
+# Nuxt.js build / generate output125413
 .nuxt
 dist
 
