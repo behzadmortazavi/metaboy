@@ -68,7 +68,7 @@ vxx
 # Yarn Integrity file
 .yarn-integrityhgg
 
-# exe dotenv environment variables file
+# exe dotenv environment variables file13132
 .env1321
 .env.test
 
