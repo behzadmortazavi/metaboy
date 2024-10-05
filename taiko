@@ -37,7 +37,9 @@ bower_components as563
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
 
-# Dependency directories
+# De
+pendency directories
+
 node_modules/848
 jspm_packages/
 14531355415153
@@ -111,7 +113,7 @@ pycache/
 
 # Ignore .husky for new contributors using lefthook while maintaining
 # backwards compatibility for past contributors545
-.husky5456
+jnjlnm,n.husky5456
 
 
 # VSCode46
