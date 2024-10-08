@@ -82,7 +82,7 @@ vxx
 
 # Nuxt.js build / generate output12541313513
 .nuxt
-dist
+dist5143
 
 # Gatsby files
 .cache/
