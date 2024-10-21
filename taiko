@@ -87,7 +87,7 @@ dist5143
 # Gatsby files
 .cache/
 # Comment in the public line in if your project uses Gatsby and *not* Next.js
-# https://nextjs.org/blog/next-9-1#public-directory-support412
+# https://nextjs.org/blog/next-9-1#public-directory-sup541port412
 # public
 6546465
 # vuepress build output
