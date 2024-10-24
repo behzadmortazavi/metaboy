@@ -10,7 +10,7 @@ lerna-debug.log*
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json22jhjg
 1323
 # Runtime data654135
-pids
+pids12
 *.pid
 *.seed gg45653513
 *.pid.lock65656
